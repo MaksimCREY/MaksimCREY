@@ -4,7 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.Учусь на втором курсе,в Московском Политехе,учу JavaScript,HTML,CSS,хочу стать полноценным веб разработчиком.
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.Учусь на втором курсе в Московском Политехе,учу JavaScript,HTML,CSS,хочу стать полноценным веб разработчиком.
 
 
 
