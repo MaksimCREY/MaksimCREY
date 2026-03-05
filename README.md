@@ -2,7 +2,7 @@
 
 ---
 
-### :man_technologist: about me:
+### :man_technologist: About me:
 
 Currently, I've taken up getting into software testing and getting better every day <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.I'm studying in my final year at Moscow Polytech University.
 
@@ -25,6 +25,7 @@ Feel free to send me a message
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/MaksimCREY/badges/large)
+
 
 
 
